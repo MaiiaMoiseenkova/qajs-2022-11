@@ -18,7 +18,6 @@ describe ('Функция Проверки имени пользователя',
 
 })
 
-
 describe ('Функция Удаления пробелов', () => {
 
   test('should return empty string if no parameters are passed', () => {
